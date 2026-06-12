@@ -1,7 +1,5 @@
 # Mediq
 
-[![Live Demo](https://img.shields.io/badge/Demo-Live%20on%20Render-1A6B4A?style=for-the-badge)](https://mediq-srqr.onrender.com/)
-
 **Mediq** is a web-based tool for analyzing medical documents (certificates, lab results, discharge summaries) in PDF format. The application helps patients decipher complex medical terminology and understand their health metrics in plain and accessible language.
 
 ![Mediq Screenshot](screenshot.png)
